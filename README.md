@@ -1,0 +1,4 @@
+- Hi, I’m Kyle Lemons
+- I’m a junior at the University of Advancing Technology pursuing a Bachelor's of Science in Game Programming
+- I am currently looking for an programming internship for the summer of 2024, so I can complete my degree by May 2025
+- Outside of coding I enjoy playing video games, like Apex Legends and Ultrakill, and doing parkour
